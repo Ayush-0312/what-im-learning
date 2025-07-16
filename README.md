@@ -9,3 +9,5 @@
 - React - https://namastedev.com/learn/namaste-react
 - Node - https://namastedev.com/learn/namaste-node
 - 3D Portfolio - https://www.youtube.com/watch?v=FkowOdMjvYo&list=PL6QREj8te1P7d4j3k8Snfa187o-IjXuJx&index=3
+
+- NextJs

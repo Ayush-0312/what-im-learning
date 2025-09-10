@@ -6,8 +6,11 @@
 
 ## Web Development
 - JS - https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+- TypeScript - https://www.youtube.com/watch?v=K01hLNDdqg4
+#
 - React - https://namastedev.com/learn/namaste-react
 - Node - https://namastedev.com/learn/namaste-node
+#
 - 3D Portfolio - https://www.youtube.com/watch?v=FkowOdMjvYo&list=PL6QREj8te1P7d4j3k8Snfa187o-IjXuJx&index=3
-
-- NextJs
+#
+- NextJs - Make projects & read docs

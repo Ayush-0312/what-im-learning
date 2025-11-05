@@ -14,3 +14,8 @@
 - 3D Portfolio - https://www.youtube.com/watch?v=FkowOdMjvYo&list=PL6QREj8te1P7d4j3k8Snfa187o-IjXuJx&index=3
 #
 - NextJs - Make projects & read docs
+#
+- Three.js
+- GSAP
+#
+- Convex

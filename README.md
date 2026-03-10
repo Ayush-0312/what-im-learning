@@ -20,3 +20,5 @@
 - GSAP
 #
 - Convex
+#
+- Git basic - https://www.youtube.com/watch?v=RDxQEzXN8AU

@@ -22,3 +22,4 @@
 - Convex
 #
 - Git basic - https://www.youtube.com/watch?v=RDxQEzXN8AU
+- Git cheat sheet - https://education.github.com/git-cheat-sheet-education.pdf

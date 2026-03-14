@@ -5,8 +5,8 @@
 - neetcode150 - https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr
 
 ## Web Development
-- JS - https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 - JS - https://www.youtube.com/watch?v=OOOfBC1grl0
+- JS Interview - https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 - TypeScript - https://www.youtube.com/watch?v=K01hLNDdqg4
 #
 - React - https://namastedev.com/learn/namaste-react

@@ -11,6 +11,7 @@
 #
 - React - https://namastedev.com/learn/namaste-react
 - Node - https://namastedev.com/learn/namaste-node
+- Backend - https://www.youtube.com/watch?v=0Rwb4Xmlcwc&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=1
 #
 - 3D Portfolio - https://www.youtube.com/watch?v=FkowOdMjvYo&list=PL6QREj8te1P7d4j3k8Snfa187o-IjXuJx&index=3
 #
